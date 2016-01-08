@@ -1,0 +1,14 @@
+.container {
+  width: auto;
+  height: auto;
+  background-color: #f0f0f0;
+  margin: auto;
+  padding-top: 15%; }
+  .container table {
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin: 0 auto; }
+  .container .cellule {
+    border: 1px solid black;
+    padding: 50px 50px 50px 50px; }
